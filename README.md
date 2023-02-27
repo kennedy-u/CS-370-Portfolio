@@ -14,6 +14,7 @@ I created the code that incorporates a reinforcement learning algorithm, and I a
 
 ## What do computer scientists do and why does it matter?
 Computer scientists study and design algorithms, software systems, and computing technologies to solve a wide range of problems and advance our understanding of computing. Computer scientist's work can involve developing new programming languages, designing hardware systems, creating algorithms to analyze large data sets, and designing user interfaces for software applications, among other tasks.
+
 The work of computer scientists matters because it has the potential to improve many aspects of modern society, from healthcare and education to transportation and communication. By developing new computing technologies and systems, computer scientists can help us tackle complex problems more effectively, automate repetitive tasks, and enhance our ability to communicate and collaborate with one another.
 
 ## How do I approach a problem as a computer scientist?
