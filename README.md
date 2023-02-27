@@ -10,3 +10,4 @@ An intelligent agent was created to solve a Treasure Hunt game by using random p
 ## Starter code sources: keras.io and SNHU
 
 ## TODO: Deep Q learning algorithm 
+I created the code that incorporates a reinforcement learning algorithm, and I also wrote the game loops using Keras and Tensorflow to successfully implement the pathfinding solution. The game setup code, which consists of GameExperience.py and TreasureMaze.py, was provided to me.
