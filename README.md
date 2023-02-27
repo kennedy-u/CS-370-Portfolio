@@ -1,4 +1,4 @@
-# CS-370 Machine Learning - Deep Q Learning analysis / Reinforcement learning Algorithm Implementation
+# CS-370 Machine Learning - Reinforcement Learning Algorithm Implementation
 
 The core purpose of this project is to explore, build, test and analyse the basic concepts and techniques that pertain to artificial intelligence and intelligent systems.
 Analyze how algorithms are used in artificial intelligence to solve a variety of complex problems.
