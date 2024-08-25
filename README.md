@@ -1,15 +1,32 @@
 # CS-370-Portfolio
 
 ## Module 1 Assignment
-[Module 1 Assignment](Module-1-Assignment/Uzoho_Kennedy_Assignment1.ipynb)
+- [Module 1 Assignment](Module-1-Assignment/Uzoho_Kennedy_Assignment1.ipynb)
+
+Here were modified parameters of the neural network in Keras and see how the changes reflected on the results.
+
+## Module 2 Assignment
+- [Module 2 Assignment](Module-2-Assignment/Uzoho_Kennedy_Assignment2.ipynb)
+
+Same as module 1, we modified the parameters and see how they reflect on the results.
+
+## Module 3 Assignment
+- [Module 3 Assignment](Module-3-Assignment/Uzoho_Kennedy_Assignment3.ipynb)
+
+- [Module 3 Augmentation Assignment ](Module-3-Assignment/Uzoho_Kennedy_Assignment3-1_Augmentation.ipynb)
+
+Here we trained a convolutional neural networks in Keras and use it to make predictions
+
+## Module 5 Assignment
+- [Module 5 Assignment](Module-5-Assignment/Uzoho_Kennedy_Assignment5.ipynb)
+
+Here we used OpenAI Gym to apply the concepts of Q-learning algorithms to the "cartpole" problem, a basic reinforcement learning problem.
+
+## Project 
+- [Main Project File](Project/Uzoho_Kennedy_ProjectTwo.ipynb)
 
 
-
-
-
-
-
-# _Machine Learning - Reinforcement Learning Algorithm_
+# _Machine Learning - Reinforcement Learning Algorithm Implementation_
 
 The core purpose of this project is to explore, build, test and analyse the basic concepts and techniques that pertain to artificial intelligence and intelligent systems.
 Analyze how algorithms are used in artificial intelligence to solve a variety of complex problems..
