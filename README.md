@@ -13,7 +13,7 @@ Same as module 1, we modified the parameters and see how the changes reflected o
 ## Module 3 Assignment
 - [Module 3 Assignment](Module-3-Assignment/Uzoho_Kennedy_Assignment3.ipynb)
 
-- [Module 3 Augmentation Assignment ](Module-3-Assignment/Uzoho_Kennedy_Assignment3-1_Augmentation.ipynb)
+- [Module 3 Augmentation Assignment ](Module-3-Assignment/Uzoho_Kennedy_Assigment3-1_Augmentation.ipynb)
 
 In this module, we trained a convolutional neural network in Keras and used it to make predictions
 
