@@ -1,7 +1,7 @@
 # CS-370-Portfolio
 
 ## Module 1 Assignment
-![Module 1 Assignment](../Module-1-Assignment/Uzoho_Kennedy_Assignment1.ipynb)
+![Module 1 Assignment](Module-1-Assignment/Uzoho_Kennedy_Assignment1.ipynb)
 
 
 
